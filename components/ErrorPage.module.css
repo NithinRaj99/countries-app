@@ -1,0 +1,39 @@
+.errorContainer {
+    text-align: center;
+    background-color: #fff;
+    padding: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.errorCode {
+    font-size: 96px;
+    margin: 0;
+    color: #e74c3c;
+}
+
+.errorMessage {
+    font-size: 36px;
+    margin: 10px 0;
+    color: #333;
+}
+
+.errorDescription {
+    font-size: 18px;
+    color: #666;
+}
+
+.errorLink {
+    text-decoration: none;
+    color: #3498db;
+    font-weight: bold;
+    margin-top: 20px;
+    display: inline-block;
+}
+
+.errorLink:hover {
+    text-decoration: underline;
+}

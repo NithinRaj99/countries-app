@@ -1,0 +1,13 @@
+.country-details-shimmer {
+    background-color: #ccc;
+    height:250px;
+    width:450px;
+}
+.details-text-shimmer b {
+    color: #ccc;
+    background-color: #ccc;
+}
+.details-text-container-shimmer h1{
+    color: #ccc;
+    background-color: #ccc;
+}
